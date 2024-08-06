@@ -11,7 +11,7 @@ public class BaseTest {
 
     protected static final ExtentReports extent = new ExtentReports();
     protected static ExtentTest test;
-    protected static final int USER_ID = 93; // Change this ID to test with different users
+    protected static final int USER_ID = 3; // Change this ID to test with different users
 
     @BeforeSuite
     public void setup() {
